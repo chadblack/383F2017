@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Schedule
+# Schedule {#history}
 
 
 ### Week 1: Introduction (August 29)

@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# history 383 | fall 2017 {#history}
 
 **Prof. Chad Black**
 
@@ -13,7 +14,7 @@ layout: default
 
 **Office Hours:** Tuesday, 3:00-4:00, Wednesday, 3:00-4:00
 
-# syllabus
+# syllabus {#history}
 
 
 As in the rest of the work, moving pictures have long marveled Latin America.
@@ -39,18 +40,13 @@ their historical content, as well as the assumptions and ideological
 perspectives that go into the making of films on this period of Latin American
 history.
 
-Most films will be in Spanish with English subtitles. The
-majority of the films are rated R for strong language, violence, and/or sexual
-content. These topics (sex and violence) are not the main topic of the films,
-but are used to convey the struggles and reality of much of the colonial period, but also of contemporary struggle in the  
-twentieth century in, for example, the Central American revolutions. In class
-we will discuss at length the themes that go beyond the uninformed viewer’s
-interpretation of the film. If, however, you feel uncomfortable with these
-topics please come speak to me.
+Most films will be in Spanish with English subtitles. The majority of the films are rated R for strong language, violence, and/or sexual content. These topics (sex and violence) are not the main topic of the films, but are used to convey the struggles and reality of much of the colonial period, but also of contemporary struggle in the twentieth century in, for example, the Central American revolutions. In class we will discuss at length the themes that go beyond the uninformed viewer’s interpretation of the film. If, however, you feel uncomfortable with these topics please come speak to me.
 
 
 
-# required readings
+# required readings {#history}
+
+
 
 There is one required purchase for this class:
 
@@ -61,7 +57,7 @@ There will be many more assigned chapter, article, and primary source readings.
 They will be available via the university library website, or in a dropbox
 folder that I will share with enrolled members of the course. 
 
-# films for viewing
+# films for viewing {#history}
 
 We will watch seven feature-length films this semester, as well as other selections or shorts:
 
@@ -76,7 +72,7 @@ We will watch seven feature-length films this semester, as well as other selecti
 9. *También la lluvia*, Icíar Bollaín, 2010. 104min.
 
 
-# policies
+# policies {#history}
 
 
 ![](http://chadblack.net/511S2012/media/images/disability.png) Qualified
