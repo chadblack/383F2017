@@ -2,7 +2,7 @@
 layout: default 
 ---
 
-# Welcome to History 383: Colonial Latin America through Film {#history}
+# Welcome to HILA 383: Colonial Latin America through Film {#history}
 
 ### recent posts {#history}
 
