@@ -1,8 +1,10 @@
 --- 
 layout: default
+title: assignments
 ---
 
-# Assignments 
+# Assignments
+{#history}
 
 1. **Film introductions and discussions:**
 

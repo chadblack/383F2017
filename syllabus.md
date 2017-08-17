@@ -1,5 +1,6 @@
 ---
 layout: default
+title: syllabus
 ---
 
 # history 383 | fall 2017 {#history}

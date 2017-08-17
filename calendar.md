@@ -1,5 +1,6 @@
 --- 
 layout: default
+title: schedule
 ---
 
 # Schedule {#history}
