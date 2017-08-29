@@ -14,7 +14,7 @@ Read:
 
 In-class viewings:
 
-* Selections from the Lumiere brothers, bell hooks, and D.W. Griffith.
+* Selections from the Lumiere brothers, Sergei Eisenstein, bell hooks, and D.W. Griffith.
 
 
 ---
