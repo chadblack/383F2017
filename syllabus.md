@@ -44,7 +44,6 @@ history.
 Most films will be in Spanish with English subtitles. The majority of the films are rated R for strong language, violence, and/or sexual content. These topics (sex and violence) are not the main topic of the films, but are used to convey the struggles and reality of much of the colonial period, but also of contemporary struggle in the twentieth century in, for example, the Central American revolutions. In class we will discuss at length the themes that go beyond the uninformed viewer’s interpretation of the film. If, however, you feel uncomfortable with these topics please come speak to me.
 
 
-
 # required readings {#history}
 
 
