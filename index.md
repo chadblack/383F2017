@@ -9,7 +9,7 @@ layout: default
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="/383F2017{{ post.url }}">{{ post.title }}</a>, {{ post.date }}
+      <a href="/383F2017{{ post.url }}">{{ post.title }}</a>, {{ post.date | date_to_sting }}
       {{ post.excerpt }}
     </li>
   {% endfor %}
