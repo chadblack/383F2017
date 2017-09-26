@@ -10,7 +10,7 @@ layout: default
   {% for post in site.posts %}
     <li>
       <a href="/383F2017{{ post.url }}">{{ post.title }}</a>  
-      </ br>
+      <br>
       {{ post.date | date: '%B %d, %Y' }}
 
       {{ post.excerpt }}
