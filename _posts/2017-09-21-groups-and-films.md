@@ -16,6 +16,7 @@ I've been meaning to post these, of course. Here are the groups for each student
 
 1. Marina
 2. Charles S.
+3. Mallory
 
 ## La última cena
 
